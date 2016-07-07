@@ -1,0 +1,1 @@
+A test of running .net core 1.0 via docker-compose
